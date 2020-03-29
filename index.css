@@ -1,0 +1,32 @@
+html,
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.v1 {
+  width: 1440px;
+  height: 980px;
+  margin: 0 auto;
+  padding-top: 150.5px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.v1 .v1-1 {
+  height: 54px;
+  font-size: 46px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.im {
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 64px;
+}
+
+.im img {
+  width: 100%;
+}
+/*# sourceMappingURL=index.css.map */

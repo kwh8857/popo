@@ -1,0 +1,120 @@
+$UI:#FC6C8C; 
+$CI:#BAF1E4;
+$PI:#F4908A;
+$WI:#48B9A8;
+$QI:white;
+
+body {
+    margin: unset
+}
+
+.a1 {
+    background-color: $UI;
+}
+
+.a2 {
+    background-color: $CI;
+}
+
+.a3 {
+    background-color: $PI;
+}
+
+.a4 {
+    background-color: $WI;
+}
+
+.white {
+    background-color: $QI;
+}
+
+.qoqo {
+    width: 100%;
+    height: 20.8vw;
+    display: flex;
+    margin: 0 auto;
+
+    .q {
+        width: calc(100%/3)
+    }
+}
+
+.toto {
+    width: 100%;
+    height: 20.8vw;
+    display: flex;
+
+    .t {
+        width: 25%;
+    }
+}
+
+
+.tqtq {
+    width: 100%;
+    height: 20.8vw;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+
+    .l2 {
+        height: 100%;
+        width: 50%;
+        margin: 0 auto;
+        display: flex;
+
+        .l2-1 {
+            width: 50%;
+            height: 50%;
+            display: flex;
+            margin: auto;
+
+            .l2-2 {
+                width: 50%;
+                height: 50%;
+                margin: auto;
+            }
+
+        }
+    }
+}
+
+
+.popo {
+    width: 100%;
+    height: 20.8vw;
+    display: flex;
+    align-items: center;
+
+    .p1 {
+        width: 25%;
+        ;
+        height: 20.8vw;
+
+    }
+
+    .p2 {
+        width: 50%;
+        height: 20.8vw;
+        display: flex;
+
+        .p2-1 {
+            width: 100%;
+            height: 50%;
+            margin: auto;
+        }
+    }
+
+    .p3 {
+        width: 25%;
+        height: 20.8vw;
+    }
+}
+
+
+
+
+.Y {
+    width: 100%;
+    height: 20.8vw;
+}

@@ -1,0 +1,125 @@
+body {
+  margin: unset;
+}
+
+.a1 {
+  background-color: #FC6C8C;
+}
+
+.a2 {
+  background-color: #BAF1E4;
+}
+
+.a3 {
+  background-color: #F4908A;
+}
+
+.a4 {
+  background-color: #48B9A8;
+}
+
+.white {
+  background-color: white;
+}
+
+.qoqo {
+  width: 100%;
+  height: 20.8vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+
+.qoqo .q {
+  width: calc(100%/3);
+}
+
+.toto {
+  width: 100%;
+  height: 20.8vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.toto .t {
+  width: 25%;
+}
+
+.tqtq {
+  width: 100%;
+  height: 20.8vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto;
+}
+
+.tqtq .l2 {
+  height: 100%;
+  width: 50%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.tqtq .l2 .l2-1 {
+  width: 50%;
+  height: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto;
+}
+
+.tqtq .l2 .l2-1 .l2-2 {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+.popo {
+  width: 100%;
+  height: 20.8vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.popo .p1 {
+  width: 25%;
+  height: 20.8vw;
+}
+
+.popo .p2 {
+  width: 50%;
+  height: 20.8vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.popo .p2 .p2-1 {
+  width: 100%;
+  height: 50%;
+  margin: auto;
+}
+
+.popo .p3 {
+  width: 25%;
+  height: 20.8vw;
+}
+
+.Y {
+  width: 100%;
+  height: 20.8vw;
+}
+/*# sourceMappingURL=lecture1.css.map */

@@ -1,0 +1,61 @@
+body {
+  width: 100%;
+  margin: unset;
+}
+
+.bu1 {
+  width: 316px;
+  height: 53px;
+  margin: 0 auto;
+  margin-top: 130px;
+  background-color: #D5D5D5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 10px;
+  -webkit-transition: background-color ease-in-out 0.2s;
+  transition: background-color ease-in-out 0.2s;
+}
+
+.bu1 span {
+  margin: 0 auto;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+
+.bu1:hover {
+  background-color: #42dd84;
+}
+
+.bu2 {
+  width: 99px;
+  height: 48px;
+  margin: 0 auto;
+  margin-top: 130px;
+  background-color: #D5D5D5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 10px;
+  -webkit-transition: background-color ease-in-out 0.2s;
+  transition: background-color ease-in-out 0.2s;
+}
+
+.bu2 span {
+  margin: 0 auto;
+  color: white;
+  font-size: small;
+  font-weight: bold;
+}
+
+.bu2:hover {
+  background-color: #42dd84;
+}
+/*# sourceMappingURL=lecture2.css.map */
